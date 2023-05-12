@@ -1,0 +1,4 @@
+.ls-block[data-refs-self~='\["done"\,']:not(:focus-within),
+.ls-block[data-refs-self~='\["done"\]']:not(:focus-within) {
+    display: none;
+}
